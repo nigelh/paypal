@@ -1,0 +1,11 @@
+body { font-family:Arial, Helvetica, sans-serif;font-size:.9em;background:#fff;color:#000;}
+img {border:none;}
+a {text-decoration:none;}
+a:hover {text-decoration:underline;}
+.red {color:#ff0000;}
+.divider {border-bottom:1px solid #cecece;margin:15px 0;clear:both;}
+.icon_warning {background:transparent url(../images/exclamation.png) left no-repeat;padding:4px;padding-left:20px;}
+input {padding:3px;border:1px solid #ddd;background:#fefefe;}
+form#form_paypal input#input_amount {width:50px;font-size:1em;padding:3px;}
+form#form_paypal .submit {cursor:pointer;border-style:outset;}
+p.footer {font-size:.9em;}
